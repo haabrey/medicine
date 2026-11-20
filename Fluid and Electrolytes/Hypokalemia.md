@@ -145,3 +145,21 @@ Causes by renin/aldosterone pattern:
     - Thiazide trials: fall in K correlates with rise in glucose (Zillich et al., Hypertension, 2006); roughly 10 mg/dL per 1 mEq/L fall in K (approximate, thiazide data only)
 - Raises BP when Na intake is not restricted (renal Na retention) (Gennari, New England Journal of Medicine, 1998)
 
+---
+## References
+
+- Palmer BF. A physiologic-based approach to the evaluation of a patient with hypokalemia. Am J Kidney Dis. 2010;56(6):1184-90. 
+	    *The backbone of this note: the distal Na delivery × aldosterone framework turns a long list of causes into a short bedside algorithm.*
+- Ferrari P, Krozowski Z. Role of the 11β-hydroxysteroid dehydrogenase type 2 in blood pressure regulation. Kidney Int. 2000;57(4):1374-81.
+	    *Explains the "gatekeeper" enzyme behind AME, licorice, and cortisol-driven MR activation in Cushing, the mechanism none of the usual figures show.*
+- Leiva-Murillo EA, Bechtold-Javier E, Candela-Parrilla P, Matas-García A. Finding the cause of severe hypokalemia: A 4-step approach. Cleve Clin J Med. 2025;92(12):748-56. _to read_
+	    *A current, practical algorithm to set against Palmer's physiologic approach (update after reading).*
+- Rafey MA, Davis AM, Hamrahian AH. Diagnosis and treatment of patients with primary aldosteronism. JAMA. 2026;336(19):1767-8. _Short good review_
+	    *This is a quick, up-to-date reference for screening, subtyping, and treatment targets for primary aldosteronism.*
+- Huang CL, Kuo E. Mechanism of hypokalemia in magnesium deficiency. J Am Soc Nephrol. 2007;18(10):2649-52.
+	    *Explains why hypokalemia won't correct until Mg is replaced, which matters in everyday clinical practice.*
+- Hoorn EJ, Subramanya AR, Boyd-Shiwarski CR. Potassium and the kidney. Nat Rev Nephrol. 2026;22(5):347-62. _!_
+	    *The most current physiology review. It updates the classic model with kidney K sensing and the role of the DCT, and has strong figures for teaching. Also Pittsburgh!*
+- Stölting G, Tran Vo KN, Haus J, Scholl UI. The genetics of hypertension. Nat Rev Nephrol. 2026;22(2):137-51.
+	    *Brings the monogenic low-renin syndromes (familial hyperaldosteronism, AME, Liddle, Geller) into one genetic framework, so it links this note to a future HTN note.*
+

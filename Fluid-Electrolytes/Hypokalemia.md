@@ -103,10 +103,10 @@ Causes by renin/aldosterone pattern:
 
 - Low renin / low aldosterone (nonaldosterone mineralocorticoid)
     - Cushing syndrome (especially ectopic ACTH): very high cortisol overwhelms 11β-HSD2 and binds MR
-		    <img src="../attachments/Pasted%20image%2020261120002145.png" width="391" alt="">
+		    ![391](../../Attachments/hypokalemia-cortisol.png)
     - 11β-hydroxylase deficiency: 11-deoxycorticosterone (DOC) accumulates and activates MR; HTN + virilization
     - 17α-hydroxylase deficiency: DOC excess; HTN + sexual infantilism
-		    <img src="../attachments/Pasted%20image%2020261120002419.png" width="523" alt="">
+		    ![523](../../Attachments/hypokalemia-adrenal-steroidogenesis.png)
     - Apparent mineralocorticoid excess: 11β-HSD2 deficiency (AR) lets normal cortisol reach MR; licorice is the acquired form (blocks the same enzyme)
 
 - Low renin / low aldosterone (mineralocorticoid-like effect) (Borozan et al., Current Hypertension Reports, 2025)
@@ -133,7 +133,7 @@ Causes by renin/aldosterone pattern:
 ## Manifestations
 
 - Low extracellular K --> hyperpolarized cell membrane --> less excitable
-- Muscle: weakness, ascending paralysis, respiratory failure; myopathy and [[Acute-Kidney-Injury/Rhabdomyolysis]] (usually K <2.5 mEq/L) (Brown and Paloian, Pediatrics in Review, 2023)
+- Muscle: weakness, ascending paralysis, respiratory failure; myopathy and [Acute-Kidney-Injury/Rhabdomyolysis](Acute-Kidney-Injury/Rhabdomyolysis) (usually K <2.5 mEq/L) (Brown and Paloian, Pediatrics in Review, 2023)
 - GI: ileus, constipation
 - Cardiac: ST depression, flat T, prominent U, long PR/QT; atrial and ventricular arrhythmias
     - Risk is highest with ischemia, heart failure, LVH, or digoxin (Gennari, New England Journal of Medicine, 1998)

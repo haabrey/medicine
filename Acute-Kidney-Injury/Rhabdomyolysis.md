@@ -1,3 +1,5 @@
+# Rhabdomyolysis
+
 ## Definition
 
 - Skeletal muscle necrosis with release of intracellular contents (CK, myoglobin, LDH, potassium, phosphate, urate) into the circulation.
@@ -105,18 +107,18 @@ AKI is the most common systemic complication and drives most of the morbidity an
 
 #### Creatine kinase
 
-![](./image-1794885544292.png)
+![](../attachments/creatine-kinase.png)
 
 - Phosphocreatine (PCr, also called creatine phosphate) is an energy reservoir that regenerates ATP on demand.
 - Mitochondrial CK: generates PCr from mitochondrial ATP and creatine imported from the cytosol.
 - Cytosolic CK: regenerates ATP from PCr at sites of use.
 
-![](./image-1794885947340.png)
+![](../attachments/phosphocreatine-creatine-shuttle.png)
 
 - Phosphocreatine-creatine shuttle
 
-![](./image-1794886593557.png)
 
+![](../attachments/creatine-creatinine.png)
 - Both creatine and phosphocreatine convert to creatinine through an irreversible, non-enzymatic cyclization (dehydration of creatine; loss of phosphate from PCr).
 
 In rhabdomyolysis:
@@ -141,7 +143,7 @@ In rhabdomyolysis:
 
 #### LDH
 
-![](./image-1794887584917.png)
+![](../attachments/lactate-dehydrogenase.png)
 
 - Released from necrotic muscle; elevated but nonspecific.
 
